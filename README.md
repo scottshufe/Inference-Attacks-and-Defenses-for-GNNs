@@ -44,7 +44,7 @@
   - **Defenses**: Differential Privacy
   - [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449813?casa_token=QJftjQKsufcAAAAA%3Aqpy41OVvbRVL9OId9qiUPgC5I8Knc-QYZIocdut4eSj2_L2Z9dDCwBIo7oYXF2A7_0hihQLh4Kg)
   <!--- [[code]] -->
-- **Information Obfuscation of Graph Neural Networks (ICML2021)**
+- **Information Obfuscation of Graph Neural Networks (ICML 2021)**
   - **Authors**: Peiyuan Liao, Han Zhao, Keyulu Xu, Tommi Jaakkola, Geoffrey Gordon, Stefanie Jegelka, Ruslan Salakhutdinov
   - **Defenses**: Adversarial Training
   - [[paper]](http://proceedings.mlr.press/v139/liao21a/liao21a.pdf)
