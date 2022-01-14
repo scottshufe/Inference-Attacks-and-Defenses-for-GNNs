@@ -6,6 +6,11 @@
   - **Attacks**: Property Inference, Subgraph Inference, Graph Reconstruction
   - [[paper]](https://www.usenix.org/system/files/sec22summer_zhang-zhikun.pdf)
   - [[code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
+- **Stealing Links from Graph Neural Networks (2021 USENIX)**
+  - **Authors**: Xinlei He, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang
+  - **Attacks**: Link Inference
+  - [[paper]](https://arxiv.org/pdf/2005.02131.pdf)
+  <!--- [[code]]()-->
 - **Node-Level Membership Inference Attacks Against Graph Neural Networks (2021 arXiv)**
   - **Authors**: Xinlei He, Rui Wen, Yixin Wu, Michael Backes, Yun Shen, Yang Zhang
   - **Attacks**: Membership Inference
